@@ -1,0 +1,16 @@
+ul li a img {
+    padding: 5px 0px 5px 5px;
+    height: 80%;
+}
+
+.box {
+    border: solid 1px blue;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    margin: 0px 200px;
+    float: right;
+}
+img{
+    width: 100%;
+}
